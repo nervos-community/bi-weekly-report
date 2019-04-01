@@ -1,4 +1,4 @@
-# weekly-report
+# Bi-weekly-report
 
 let‘s write weekly report together!
 
