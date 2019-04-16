@@ -1,3 +1,5 @@
+[Nervos 双周报#7：Dev Meetup 正式更名为 Crypto Wednesday 啦！](https://talk.nervos.org/t/nervos-7-dev-meetup-crypto-wednesday/1608)
+
 [Nervos 双周报#6：一旦开始，一切就会变得简单](https://talk.nervos.org/t/nervos-6/1555)
 
 [Nervos 双周报#5：CKB 经济模型提案如约而至](https://talk.nervos.org/t/nervos-5-ckb/1424)
