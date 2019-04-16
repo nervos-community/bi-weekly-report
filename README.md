@@ -1,6 +1,6 @@
 # Bi-weekly-report
 
-Welcome to Nervos Community. Nervos bi-weekly report temporarily consists of 4 parts： community update, CKB development update, recent fun and Nervos upcoming events. We update it every other Wednesday. You can pull anything about Nervos community here.let‘s write Bi-weekly report together!
+Welcome to Nervos community. Nervos bi-weekly report temporarily consists of 4 parts： community update, CKB development update, recent fun and Nervos upcoming events. We update it every other Wednesday. You can pull anything about Nervos community here.let‘s write Bi-weekly report together!
 
 About Nervos previous bi-weekly reports please click [here](https://github.com/nervos-community/weekly-report/blob/master/Past%20report.md)
 
