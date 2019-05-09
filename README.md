@@ -6,4 +6,4 @@ About Nervos previous bi-weekly reports please click [here](https://github.com/n
 
 欢迎大家来到 Nervos 社区周报，目前 Nervos 双周报暂时分为“***社区动态***”、“***CKB 开发动态***”、“***近期好玩的推荐***”、“***Nervos 活动预告***”四部分，每隔一周的周三会更新一次。关于 Nervos 的一切社区动态，等你来补充。
 
-Nervos 往期双周报请点击[这里](https://github.com/nervos-community/bi-weekly-report/tree/master/Past%20reports)
+Nervos 往期双周报请点击[这里](https://github.com/nervos-community/bi-weekly-report/blob/master/Past%20reports/%E4%B8%AD%E6%96%87%E7%89%88.md)
