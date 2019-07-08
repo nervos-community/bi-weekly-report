@@ -1,3 +1,5 @@
+[Nervos Bi-weekly Report #13： Nervos & Huobi: The New Era of Public Blockchain](https://talk.nervos.org/t/nervos-bi-weekly-report-13-nervos-huobi-the-new-era-of-public-blockchain/2988)
+
 [Nervos Bi-weekly Report #12：How Is The Mining Competition Going?](https://talk.nervos.org/t/nervos-bi-weekly-report-12-how-is-the-mining-competition-going/2864)
 
 [Nervos Bi-weekly Report #11：Nervos Dev Meetup Tour in Progress](https://talk.nervos.org/t/nervos-bi-weekly-report-11-nervos-dev-meetup-tour-in-progress/2692)
