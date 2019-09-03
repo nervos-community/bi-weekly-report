@@ -1,3 +1,5 @@
+[Nervos Biweekly Report #17: GPU miner released!](https://talk.nervos.org/t/nervos-biweekly-report-17-gpu-miner-released/3486) 
+
 [Nervos Biweekly Report #16: Meet Nervos in Belin](https://talk.nervos.org/t/nervos-biweekly-report-16-meet-nervos-in-belin/3425) 
 
 [Nervos Bi-weekly Report #15：Meet the Eaglesong! ](https://talk.nervos.org/t/nervos-bi-weekly-report-15-meet-the-eaglesong/3335)
