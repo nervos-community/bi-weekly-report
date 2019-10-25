@@ -1,8 +1,14 @@
-[Nervos Biweekly Report#18: Nervos in Korea](https://talk.nervos.org/t/nervos-biweekly-report-18-nervos-in-korea/3555)
+[Nervos Bi-weekly Report#21: Are you ready to be a bounty hunter?](https://talk.nervos.org/t/nervos-bi-weekly-report-21-are-you-ready-to-be-a-bounty-hunter/3683)
 
-[Nervos Biweekly Report #17: GPU miner released!](https://talk.nervos.org/t/nervos-biweekly-report-17-gpu-miner-released/3486) 
+[Nervos Bi-weekly Report#20: Final Round Mining Competition](https://talk.nervos.org/t/nervos-bi-weekly-report-20-final-round-mining-competition/3648)
 
-[Nervos Biweekly Report #16: Meet Nervos in Belin](https://talk.nervos.org/t/nervos-biweekly-report-16-meet-nervos-in-belin/3425) 
+[Nervos Bi-weekly Report#19: Next Station—Osaka](https://talk.nervos.org/t/nervos-bi-weekly-report-19-next-station-osaka/3602)
+
+[Nervos Bi-weekly Report#18: Nervos in Korea](https://talk.nervos.org/t/nervos-biweekly-report-18-nervos-in-korea/3555)
+
+[Nervos Bi-weekly Report #17: GPU miner released!](https://talk.nervos.org/t/nervos-biweekly-report-17-gpu-miner-released/3486) 
+
+[Nervos Bi-weekly Report #16: Meet Nervos in Belin](https://talk.nervos.org/t/nervos-biweekly-report-16-meet-nervos-in-belin/3425) 
 
 [Nervos Bi-weekly Report #15：Meet the Eaglesong! ](https://talk.nervos.org/t/nervos-bi-weekly-report-15-meet-the-eaglesong/3335)
 
