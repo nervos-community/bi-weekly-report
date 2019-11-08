@@ -1,3 +1,5 @@
+[Nervos Bi-weekly Report#22: Meet Lina](https://talk.nervos.org/t/nervos-bi-weekly-report-22-meet-lina/3759)
+
 [Nervos Bi-weekly Report#21: Are you ready to be a bounty hunter?](https://talk.nervos.org/t/nervos-bi-weekly-report-21-are-you-ready-to-be-a-bounty-hunter/3683)
 
 [Nervos Bi-weekly Report#20: Final Round Mining Competition](https://talk.nervos.org/t/nervos-bi-weekly-report-20-final-round-mining-competition/3648)
