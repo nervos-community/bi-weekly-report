@@ -1,3 +1,5 @@
+[Nervos 双周报#23: 「Lina」 上线第一周，Nervos DAO 中 CKB 锁定量达 3.76 亿](https://talk.nervos.org/t/nervos-23-lina-nervos-dao-ckb-3-76/3904)
+
 [Nervos Bi-weekly Report#22: Meet Lina](https://talk.nervos.org/t/nervos-bi-weekly-report-22-meet-lina/3759)
 
 [Nervos Bi-weekly Report#21: Are you ready to be a bounty hunter?](https://talk.nervos.org/t/nervos-bi-weekly-report-21-are-you-ready-to-be-a-bounty-hunter/3683)
