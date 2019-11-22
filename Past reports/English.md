@@ -1,4 +1,4 @@
-[Nervos Bi-weekly Report#23: 620 million CKBytes have deposited in Nervos DAO](https://talk.nervos.org/t/nervos-23-lina-nervos-dao-ckb-3-76/3904) 
+[Nervos Bi-weekly Report#23: 620 million CKBytes have deposited in Nervos DAO](https://talk.nervos.org/t/nervos-bi-weekly-report-23-620-million-ckbytes-have-deposited-in-nervos-dao/3916) 
 
 [Nervos Bi-weekly Report#22: Meet Lina](https://talk.nervos.org/t/nervos-bi-weekly-report-22-meet-lina/3759)
 
