@@ -1,3 +1,7 @@
+[Happy New Year!—–Nervos Bi-weekly Report #26](https://talk.nervos.org/t/happy-new-year-nervos-bi-weekly-report-26/4082)
+
+[Roadmap 2020 Has Been Released !—Nervos Bi-weekly Report #25](https://talk.nervos.org/t/roadmap-2020-has-been-released-nervos-bi-weekly-report-25/4036)
+
 [Nervos Bi-weekly report #24: Build on Nervos CKB!](https://talk.nervos.org/t/nervos-bi-weekly-report-24-build-on-nervos-ckb/3984)
 
 [Nervos Bi-weekly Report#23: 620 million CKBytes have deposited in Nervos DAO](https://talk.nervos.org/t/nervos-bi-weekly-report-23-620-million-ckbytes-have-deposited-in-nervos-dao/3916) 
