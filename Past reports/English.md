@@ -1,3 +1,5 @@
+[The Grants Program is Now Open—–Nervos Bi-weekly Report #27](https://talk.nervos.org/t/the-grants-program-is-now-open-nervos-bi-weekly-report-27/4147)
+
 [Happy New Year!—–Nervos Bi-weekly Report #26](https://talk.nervos.org/t/happy-new-year-nervos-bi-weekly-report-26/4082)
 
 [Roadmap 2020 Has Been Released !—Nervos Bi-weekly Report #25](https://talk.nervos.org/t/roadmap-2020-has-been-released-nervos-bi-weekly-report-25/4036)
