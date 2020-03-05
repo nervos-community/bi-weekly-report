@@ -1,3 +1,5 @@
+[9 Grants RFC have been published and 2 have been approved! —–Nervos Bi-weekly Report #28](https://talk.nervos.org/t/9-grants-rfc-have-been-published-and-2-have-been-approved-nervos-bi-weekly-report-28/4263)
+
 [The Grants Program is Now Open—–Nervos Bi-weekly Report #27](https://talk.nervos.org/t/the-grants-program-is-now-open-nervos-bi-weekly-report-27/4147)
 
 [Happy New Year!—–Nervos Bi-weekly Report #26](https://talk.nervos.org/t/happy-new-year-nervos-bi-weekly-report-26/4082)
